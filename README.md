@@ -21,20 +21,6 @@ The dataset includes the following features:
 - `README.md` - Project documentation
 - `requirements.txt` -  Required dependencies
 
-## Project Structure
-insurance-data-cleaning/
-├── data/
-│   ├── raw/
-│   │   └── insurance.csv
-│   └── processed/
-│       └── insurance_data_cleaned.csv
-├── notebooks/
-│   └── insurance_cleaning.ipynb
-├── scripts/
-│   └── insurance_cleaning.py
-├── README.md
-└── requirements.txt
-
 ## Data Cleaning Process
 The data cleaning pipeline follows a systematic approach to ensure data quality and consistency:
 
